@@ -1,6 +1,6 @@
 # feishu-mcp
 
-部署在 Cloudflare Workers 上的飞书 MCP 服务，通过 Streamable HTTP 协议暴露飞书文档、云空间、知识库和多维表格能力，可在 Cursor、Claude Desktop、Cherry Studio 等支持远程 MCP 的客户端中直接调用。
+部署在 Cloudflare Workers 上、本地的飞书 MCP 服务，通过 Streamable HTTP 协议暴露飞书文档、云空间、知识库和多维表格能力，可在 Cursor、Claude Desktop、Cherry Studio 等支持远程 MCP 的客户端中直接调用。
 
 ## 已实现工具
 
